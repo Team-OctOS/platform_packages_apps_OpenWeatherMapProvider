@@ -22,7 +22,7 @@
                 android:title="@string/prefscreen_api_key_title"
                 android:summary="@string/prefscreen_api_key_summary"
                 android:dialogTitle="@string/prefscreen_api_key_title"
-                android:defaultValue="">
+                android:defaultValue="e2b075d68c39dc43e16995653fcd6fd0">
         </EditTextPreference>
         <PreferenceScreen
                 android:key="create_key"
